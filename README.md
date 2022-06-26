@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=asdardevs&count_private=true&show_icons=true&title_color=1f8ae0&icon_color=1f66e0&text_color=0e0e0e&bg_color=fefefe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdardevs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+![Stats](https://github-readme-stats.vercel.app/api?username=asdardevs&count_private=true&show_icons=true&title_color=1f8ae0&icon_color=1f66e0&text_color=0e0e0e&bg_color=fefefe) 
 
 
 
