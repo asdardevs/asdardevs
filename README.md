@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 
 
 
-[twitter]: https://twitter.com/asdardevs
-[instagram]: https://instagram.com/asdardevs
-[linkedin]: https://linkedin.com/in/asdardevs
+[twitter]: https://twitter.com/asdarmld
+[instagram]: https://instagram.com/asdarmld
+[linkedin]: https://linkedin.com/in/asdarmld
 [webdevplaylist]: https://www.youtube.com/
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
